@@ -1,5 +1,19 @@
-# COVID-Team-5
-The goal of the project is to develop an analytical framework to study the data coming of of United States to understand patterns of COVID-19 effect and spread.
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/UNCG-CSE/COVID-Team-5/">
+    <img src="https://emoji.beeimg.com/💻" alt="💻 Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">COVID-Team-5</h3>
+
+  <p align="center">
+    The goal of the project is to develop an analytical framework to study the data coming of of United States to understand patterns of COVID-19 effect and spread.
+  </p>
+</p>
 
 ## Team Members 📣
 
