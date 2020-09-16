@@ -1,5 +1,7 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues](https://img.shields.io/github/contributors/UNCG-CSE/COVID-Team-5?style=flat-square)](https://github.com/UNCG-CSE/COVID-Team-5/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/UNCG-CSE/COVID-Team-5.svg?style=flat-square)](https://github.com/UNCG-CSE/COVID-Team-5/)
+[![Issues](https://img.shields.io/github/downloads/UNCG-CSE/COVID-Team-5/total?logo=download&style=flat-square)](https://github.com/UNCG-CSE/COVID-Team-5/issues)
+
 
 <!-- PROJECT LOGO -->
 <br />
