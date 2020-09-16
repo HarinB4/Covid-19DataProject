@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/UNCG-CSE/COVID-Team-5/">
-    <img src="https://emoji.beeimg.com/💻/200" alt="💻 Logo" width="150" height="150">
+    <img src="https://emoji.beeimg.com/💻/200" alt="💻 Logo" width="200" height="200">
   </a>
 
   <h3 align="center">COVID-Team-5</h3>
