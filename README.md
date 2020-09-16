@@ -14,7 +14,7 @@ The goal of the project is to develop an analytical framework to study the data 
 
 ## Data Source 📜
 ### COVID-19 Dataset
-1. The dataset contains daily county-level tracker of COVID-19 cases is from [usfacts.org](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
+The dataset contains daily county-level tracker of COVID-19 cases is from [usfacts.org](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
 ### Enrichment Datasets for COVID-19 
 - [Census Demographic ACS](https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05)
