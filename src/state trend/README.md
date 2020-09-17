@@ -1,5 +1,5 @@
 # State trends
-## Harinderveer Badesha
+## States group 1: Harinderveer Badesha
 -	AK
 -	AL
 -	AR
@@ -10,7 +10,7 @@
 -	DC
 -	DE
 -	FL
-## Isaac Taylor
+## States group 2: Isaac Taylor
 -	GA
 -	HI
 -	IA
@@ -21,7 +21,7 @@
 -	KY
 -	LA
 -	MA
-## Nadia Doudou
+## States group 3: Nadia Doudou
 -	MD
 -	ME
 -	MI
@@ -32,7 +32,7 @@
 -	NC
 -	ND
 -	NE
-## Sanam Khalili
+## States group 4: Sanam Khalili
 -	NH
 -	NJ
 -	NM
@@ -43,7 +43,7 @@
 -	OR
 -	PA
 -	RI
-## Ali Altamimi
+## States group 5: Ali Altamimi
 -	SC
 -	SD
 -	TN
